@@ -1,6 +1,6 @@
 ### occasional coder
-mel ✧･ﾟ: *✧･ﾟ:*
-- 4th year computer systems in ul
+mel ✧･ﾟ: *✧･ﾟ:* 
+4th year computer systems in ul
 
 
 <h3 align="left">Languages and Tools:</h3>
