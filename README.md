@@ -1,4 +1,4 @@
-### Hi there 👋
+### occasional coder
 
 <!--
 **mel-butler/mel-butler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
